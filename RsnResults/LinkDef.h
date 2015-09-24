@@ -10,4 +10,8 @@
 #pragma link C++ class TGraphRsnErrors+;
 #pragma link C++ class TRsnSparseHandler+;
 
+#pragma link C++ class TRsnAction+;
+#pragma link C++ class TRsnActionNorm+;
+#pragma link C++ class TRsnActionAdd+;
+
 #endif

@@ -6,11 +6,10 @@
 #define RSNSPARSEHANDLER_H
 
 #include <TObjArray.h>
-
-class THnBase;
-class TAxis;
-class TArrayI;
-class TRsnGroup;
+#include <TArrayI.h>
+#include <THnBase.h>
+#include <TAxis.h>
+#include "TRsnGroup.h"
 
 class TRsnSparseHandler : public TObject {
 

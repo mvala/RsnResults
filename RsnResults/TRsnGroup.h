@@ -7,8 +7,8 @@
 
 #include <TObjArray.h>
 
-class THashList;
-class TRsnFragment;
+#include <THashList.h>
+#include <TRsnFragment.h>
 
 class TRsnGroup : public TNamed {
 
